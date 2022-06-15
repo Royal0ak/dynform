@@ -1,0 +1,337 @@
+[{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa2"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_user",
+  "language": "de",
+  "text": "Benutzername"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa3"
+  },
+  "form_id": "formtest",
+  "text_id": "text_comment",
+  "language": "de",
+  "text": "Kommentar"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa4"
+  },
+  "form_id": "formtest",
+  "text_id": "text_date",
+  "language": "de",
+  "text": "Datum"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa5"
+  },
+  "form_id": "formtest",
+  "text_id": "text_disabled",
+  "language": "de",
+  "text": "Deaktiviert"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa6"
+  },
+  "form_id": "formtest",
+  "text_id": "text_readonly",
+  "language": "de",
+  "text": "Gesperrt"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa7"
+  },
+  "form_id": "formtest",
+  "text_id": "text_helper",
+  "language": "de",
+  "text": "Hilfetext"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa8"
+  },
+  "form_id": "formtest",
+  "text_id": "text_required",
+  "language": "de",
+  "text": "Pflichtfeld"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa9"
+  },
+  "form_id": "formtest",
+  "text_id": "text_initValue",
+  "language": "de",
+  "text": "Standardeingabe"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaaa"
+  },
+  "form_id": "formtest",
+  "text_id": "text_inDiv",
+  "language": "de",
+  "text": "in DivBox"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaab"
+  },
+  "form_id": "formtest",
+  "text_id": "text_inSecDiv",
+  "language": "de",
+  "text": "in Second DivBox"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaac"
+  },
+  "form_id": "formtest",
+  "text_id": "text_submit",
+  "language": "de",
+  "text": "Absenden"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaad"
+  },
+  "form_id": "formtest",
+  "text_id": "text_help",
+  "language": "de",
+  "text": "Das hilft enorm"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaae"
+  },
+  "form_id": "formtest",
+  "text_id": "text_pw",
+  "language": "de",
+  "text": "Passwort"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaaf"
+  },
+  "form_id": "formtest",
+  "text_id": "text_chose",
+  "language": "de",
+  "text": "Wähle irgend etwas aus!"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab0"
+  },
+  "form_id": "formtest",
+  "text_id": "text_header",
+  "language": "de",
+  "text": "Formular Titel"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab1"
+  },
+  "form_id": "formtest",
+  "text_id": "text_img",
+  "language": "de",
+  "text": "Alternativtext_Image"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab2"
+  },
+  "form_id": "formtest",
+  "text_id": "text_help",
+  "language": "de",
+  "text": "Dieser Text kann helfen!!"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab3"
+  },
+  "form_id": "formtest",
+  "text_id": "text_random",
+  "language": "de",
+  "text": "Lorem ipsum dolor sit amet; consectetur adipiscing elit; sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam; quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident; sunt in culpa qui officia deserunt mollit anim id est laborum."
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab4"
+  },
+  "form_id": "formtest",
+  "text_id": "text_item1",
+  "language": "de",
+  "text": "Position 1"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab5"
+  },
+  "form_id": "formtest",
+  "text_id": "text_item2",
+  "language": "de",
+  "text": "Position 2"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab6"
+  },
+  "form_id": "formtest",
+  "text_id": "text_item3",
+  "language": "de",
+  "text": "Position 3"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab7"
+  },
+  "form_id": "formtest",
+  "text_id": "tp_chose",
+  "language": "de",
+  "text": "Test ToolTip"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab8"
+  },
+  "form_id": "formtest",
+  "text_id": "tp_user",
+  "language": "de",
+  "text": "bitte Benutzername eingeben"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbab9"
+  },
+  "form_id": "formtest",
+  "text_id": "tp_header",
+  "language": "de",
+  "text": "Test"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaba"
+  },
+  "form_id": "formtest",
+  "text_id": "tp_img",
+  "language": "de",
+  "text": "Das hier ist ein Wald"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabb"
+  },
+  "form_id": "formtest",
+  "text_id": "text_panel1",
+  "language": "de",
+  "text": "Das ist ein <b>Baum</b>"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabc"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_user",
+  "language": "en",
+  "text": "Username"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabd"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mainheader",
+  "language": "de",
+  "text": "<b>Registrierung</b>"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabe"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_subheader",
+  "language": "de",
+  "text": "Für Ihr Konto brauchen wir folgende Daten:"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabf"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mail",
+  "language": "de",
+  "text": "E-Mail"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac0"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_pw",
+  "language": "de",
+  "text": "Passwort"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac1"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_help_pw",
+  "language": "de",
+  "text": "Passwort bitte bestätigen"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac2"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_agb",
+  "language": "de",
+  "text": "Ich stimme den <b>Nutzungsbedingungen</b> von Merkur GmbH zu und habe die <b>Datenschutzerklärung</b> gelesen."
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac3"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_register",
+  "language": "de",
+  "text": "Registrieren"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac4"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_Anlehnung",
+  "language": "de",
+  "text": "Anlehnung an <a href=\"https://eparo.de/axure/registrierungsformular-mit-tab\" target=\"_blank\">folgendes Formular</a>"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac5"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_register",
+  "language": "en",
+  "text": "Register"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac6"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_agb",
+  "language": "en",
+  "text": "I agree to the <b>Terms of Use</b> from Merkur GmbH and have read the <b>Privacy Policy</b>."
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac7"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_help_pw",
+  "language": "en",
+  "text": "Please confirm password"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac8"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_pw",
+  "language": "en",
+  "text": "Password"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac9"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mail",
+  "language": "en",
+  "text": "E-Mail"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaca"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_subheader",
+  "language": "en",
+  "text": "For your account we need the following data:"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbacb"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mainheader",
+  "language": "en",
+  "text": "<b>Registration</b>"
+}]

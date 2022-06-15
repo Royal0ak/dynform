@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaa2"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_user",
+  "language": "de",
+  "text": "Benutzername"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabc"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_user",
+  "language": "en",
+  "text": "Username"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabd"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mainheader",
+  "language": "de",
+  "text": "<b>Registrierung</b>"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabe"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_subheader",
+  "language": "de",
+  "text": "Für Ihr Konto brauchen wir folgende Daten:"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbabf"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mail",
+  "language": "de",
+  "text": "E-Mail"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac0"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_pw",
+  "language": "de",
+  "text": "Passwort"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac1"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_help_pw",
+  "language": "de",
+  "text": "Passwort bitte bestätigen"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac2"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_agb",
+  "language": "de",
+  "text": "Ich stimme den <b>Nutzungsbedingungen</b> von Merkur GmbH zu und habe die <b>Datenschutzerklärung</b> gelesen."
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac3"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_register",
+  "language": "de",
+  "text": "Registrieren"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac4"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_Anlehnung",
+  "language": "de",
+  "text": "Anlehnung an <a href=\"https://eparo.de/axure/registrierungsformular-mit-tab\" target=\"_blank\">folgendes Formular</a>"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac5"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_register",
+  "language": "en",
+  "text": "Register"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac6"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_agb",
+  "language": "en",
+  "text": "I agree to the <b>Terms of Use</b> from Merkur GmbH and have read the <b>Privacy Policy</b>."
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac7"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_help_pw",
+  "language": "en",
+  "text": "Please confirm password"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac8"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_pw",
+  "language": "en",
+  "text": "Password"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbac9"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mail",
+  "language": "en",
+  "text": "E-Mail"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbaca"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_subheader",
+  "language": "en",
+  "text": "For your account we need the following data:"
+},{
+  "_id": {
+    "$oid": "628d1e82e36ea6514b0fbacb"
+  },
+  "form_id": "registerForm",
+  "text_id": "text_mainheader",
+  "language": "en",
+  "text": "<b>Registration</b>"
+}]
