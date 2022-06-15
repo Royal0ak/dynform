@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --inspect index.js"
+  },
+  "keywords": [],
+  "author": "Michael Knapp",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.11.0",
+    "ajv-formats": "^2.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "is-base64": "^1.1.0",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.15"
+  }
+}
